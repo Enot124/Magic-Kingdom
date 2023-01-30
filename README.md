@@ -18,6 +18,6 @@ Screenshots:<br>
 <img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/2.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
 <img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/3.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
 <img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/4.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/5.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
 <img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/6.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
-<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/7.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
 
