@@ -14,3 +14,10 @@ Loss occurs when the monster reaches the royal castle.
 Initially, you fail to defend yourself and the enemies still break through. Don't worry, with the money accumulated in battle you can upgrade the Mages in the store and thereby increase your chance of winning!
 
 Screenshots:<br>
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/1.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/2.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/3.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/4.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/6.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+<img src="https://github.com/Enot124/Magic-Kingdom/blob/main/Screenshots/7.jpg" title="Screen" alt="Screen" width="600" height="300"/>&nbsp;
+
